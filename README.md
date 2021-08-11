@@ -11,7 +11,7 @@ Collection of code from our Youtube Channel.
 
 ### Custom Plate Search
 
-- Vido - <https://youtu.be/4UMh9Z7DPsw>
+- Video - <https://youtu.be/4UMh9Z7DPsw>
 - Code - [custom_plate_search](custom_plate_search)
 
 This video covers how scrapy can be used to read input data from a CSV, send request to a site, and return the response.
