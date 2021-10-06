@@ -27,7 +27,7 @@ pyOpenSSL==20.0.1
 python-docx==0.8.11
 queuelib==1.6.1
 scraper-helper==0.0.8
-Scrapy==2.5.0
+Scrapy==2.5.1
 service-identity==21.1.0
 six==1.16.0
 soupsieve==2.2.1
