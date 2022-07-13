@@ -6,6 +6,7 @@ Collection of code from our Youtube Channel.
 - [Practical Example of POST requiests](#practical-example-of-post-requiests)
 - [Extract Emails from Any Site](#extract-emails-from-any-site)
 - [Digging Deeper into APIs](#digging-deeper-into-apis)
+- [Web Scraping with PHP (Goutte)](#web-scraping-with-php-goutte)
 
 
 ## Custom Plate Search
@@ -35,3 +36,9 @@ Experiment with different data requested from API and see how they can be used b
 
 - Video - <https://youtu.be/ThKiZjLNN8Y>
 - Code - [diggin_into_APIs](diggin_into_APIs)
+
+
+## Web Scraping with PHP (Goutte)
+
+- Video - <https://www.youtube.com/watch?v=33X0yYhvf60>
+- Code - [web_scraping_php_goutte](web_scraping_php_goutte)
