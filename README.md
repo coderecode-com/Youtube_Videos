@@ -16,7 +16,7 @@ This video covers how scrapy can be used to read input data from a CSV, send req
 - Video - <https://youtu.be/4UMh9Z7DPsw>
 - Code - [custom_plate_search](custom_plate_search)
 
-## Practical Example of POST requiests
+## Practical Example of POST requests
 
 Practical example where POST requests are used to submit a search form and for pagination.
 
