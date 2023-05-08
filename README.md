@@ -25,7 +25,7 @@ Practical example where POST requests are used to submit a search form and for p
 
 
 ## Extract Emails from Any Site
-Create an easy sraper to extract emails from any site.
+Create an easy scraper to extract emails from any site.
 
 - Video - <https://youtu.be/nRZ2q83AG4g>
 - Code -  [extract_emails](extract_emails)
